@@ -1,0 +1,24 @@
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+numpy
+pandas
+pytest
+scipy
+scikit-learn
+jupyter
+jupyterlab
+matplotlib
+seaborn
+tqdm
+xgboost
+lightgbm
+scikit-optimize
+imbalanced-learn
+python-dotenv
+
+# backwards compatibility
+pathlib2
